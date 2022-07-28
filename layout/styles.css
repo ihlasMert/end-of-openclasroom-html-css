@@ -1,0 +1,31 @@
+nav {
+  background-color: blue;
+  padding: 3px;
+  margin: -9px;
+}
+
+
+ul {
+  text-align: center;
+  text-decoration: none;
+  padding: 10px;
+}
+li{
+list-style: none;
+display: inline-block;
+margin: 0 20px;
+
+}
+a {
+    font-weight: 20px;
+    text-decoration: none;
+
+    color:wheat
+  }
+  a:active{
+    background-color: aqua;
+  }
+  a:hover{
+    background: red;
+    color: bisque;
+  }
